@@ -20,3 +20,8 @@
     <li><b>Pandas:</b> For working with dataframes</li>
   </ol>
 </p>
+
+<p>
+  <h3>Data set used</h3>
+  The dataset was from two sources: MakAI Lab for cassava leaves and Plant Village for tomato leaves. The Mak Ai dataset is availabe on the Havard dataverse site <a href="">here</a> while the Plant village dataset is available on Kaggle via this <a href="">link</a>
+</p>
