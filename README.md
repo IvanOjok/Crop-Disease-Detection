@@ -1,6 +1,6 @@
 <h1>Cassava and Tomato Disease Detection</h1>
 <p>
-  This project evaluates three ML models based on three supervised learning algorithms; <br>
+  This project evaluates three ML models based on three supervised learning algorithms to detect diseases from leaves of tomatoes and cassava. The algorithms used are; <br>
   <ol>
     <li><h4>Multiclass Support Vector Machine (SVM)</h4></li>
     <li><h4>Standard Convolutional Neural Network (CNN)</h4></li>
